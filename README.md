@@ -1,2 +1,2 @@
-# ppc
-C program for daily questions
+#
+DSA problem practice
